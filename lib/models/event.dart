@@ -1,0 +1,1 @@
+// Event model (title, date, category, location, description, isCompleted)
